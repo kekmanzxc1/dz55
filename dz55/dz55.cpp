@@ -1,5 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
+//Посилання. Параметри функцій.
+//Програмування з використанням мови C++
 //Завдання 2 
 //int* createArray(int size) {
 //    return new int[size];
